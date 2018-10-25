@@ -1,0 +1,9 @@
+---
+layout: default
+img: hex_shiny.png
+alt: brighter
+package: brighter
+focus: Shiny
+description: A toolbox of random functions for easier shiny development.
+link: https://github.com/ThinkR-open/brighter
+---
