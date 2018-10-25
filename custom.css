@@ -30,3 +30,11 @@ li a:hover {
 li {
   margin-bottom:1em;
 }
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: white; 
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: white; 
+}
