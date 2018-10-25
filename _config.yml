@@ -1,7 +1,7 @@
 # Site settings
 title: ThinkR - Tools
 email: colin@thinkr.fr
-url: https://thinkr-open.github.io/tools.thinkr.fr/
+url: https://thinkr-open.github.io
 description: "Open Source Tools, by ThinkR"
 keywords: "R, RStats, Shiny, Development"
 skills: "Open Source Tools, by ThinkR"
