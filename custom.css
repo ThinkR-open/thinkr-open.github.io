@@ -38,3 +38,9 @@ li {
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
     color: white; 
 }
+
+.img-responsive{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
