@@ -1,0 +1,32 @@
+.left {
+  float: left;
+  width: 25%;
+}
+
+.right {
+  float: right;
+  width: 70%;
+  margin-left:1em;
+}
+
+.nineteen{
+  font-size:19px;
+}
+
+.row.innerow {
+  margin-top:1em;
+  margin-bottom:1em;
+}
+
+li a {
+    color: white;
+    
+}
+
+li a:hover {
+    color: white;
+}
+
+li {
+  margin-bottom:1em;
+}
